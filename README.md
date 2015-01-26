@@ -1,3 +1,1 @@
-
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+The Personal Website of Fred Wang(aka Kenshinji). Find me at www.kenshinji.com
