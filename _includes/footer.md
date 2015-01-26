@@ -1,8 +1,2 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
+Thank you for visiting my website. Just drop me an email if I can help you on programming stuff. P.S. Did you connect with me on LinkedIn yet?
 
