@@ -9,13 +9,7 @@ style: left
 
 ### Senior Software Engineer at HP Inc. (Oct 2014 - Present)
 
-**Responsibilities**:
-
- - Applies advanced subject matter knowledge to complex business issues, and is regarded as a subject matter expert in Manageability solutions.
- - Frequently contributes to the development of new ideas and methods.
- - Works on complex problems/projects where analysis of situations or data requires an in-depth evaluation of multiple factors.
- - Exercises significant independent judgment within broadly defined policies and practices to determine best method for accomplishing work and achieving objectives.
- - Acts as an expert providing direction and guidance to process improvements and establishing policies.  
+As a new comer to HP, my current work here are mostly focused on fixing bugs, getting familiar with our product as fast as I could, and also I was assigned with some sub module enhancements sometimes.
 
 ### Senior Application Developer at IBM (Sep 2012 - Oct 2014)
 
