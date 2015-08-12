@@ -9,7 +9,10 @@ style: left
 
 ### Senior Software Engineer at HP Inc. (Oct 2014 - Present)
 
-As a new comer to HP, my current work here are mostly focused on fixing bugs, getting familiar with our product as fast as I could, and also I was assigned with some sub module enhancements sometimes.
+I am working as a senior developer in HP. Most of my daily work are focused on delivering high quality software product, fixing bugs, and mentoring junior developers. And here are some goals I achieved during the past couple of months:
+ 1. Fixed some difficult issues in the professional way.
+ 2. Developed some new features for our new version product.
+ 3. Mentored junior developer on developing tool project.
 
 ### Senior Application Developer at IBM (Sep 2012 - Oct 2014)
 
